@@ -5,4 +5,6 @@ title: Naut Human Productions
 
 ## Welcome to Naut Human Productions
 
-The home of elevated horror.
+An independent, Atlanta-based film & television production company operated by Cullen Gray.
+
+Check out some of our work:
