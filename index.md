@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Naut Human Productions
+title: its NauT Human.
 ---
 
 ## Welcome to Naut Human Productions
