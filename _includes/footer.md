@@ -1,3 +1,0 @@
-    <footer>
-      Follow @nauthuman on twitter!
-    </footer>
