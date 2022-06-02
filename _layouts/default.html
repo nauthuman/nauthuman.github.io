@@ -12,10 +12,15 @@
 
     <style>
       body {
-        background: Black;
-        color: WhiteSmoke;
         font-family: "Asul";
         font-size: 18px;
+        color: WhiteSmoke;
+      }
+      div.main {
+        background: Black;
+      }
+      div.footer {
+        background: DimGrey;
       }
       h1 {
         margin-top: 1em;
@@ -32,11 +37,13 @@
     </style>
   </head>
   <body>
-  <div class="content">
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
+    <div class="content">
+      <div class="main">
+        <h1>{{ page.title }}</h1>
+        <section>
+          {{ content }}
+        </section>
+    </div>
     {% include footer.html %}
   </div>
   </body>
