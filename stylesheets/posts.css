@@ -14,7 +14,8 @@
   }
   div.post-wrapper a.project-title {
     position: relative;
-    top: -20%;
+    top: -25%;
+    left: 3%;
     color: white;
     font-size: 36px;
     background-color: rgba(0, 0, 0, 0.2);
