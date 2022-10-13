@@ -15,7 +15,7 @@
   div.post-wrapper a.project-title {
     position: relative;
     text-align: left;
-    top: -25%;
+    top: -100px;
     left: 3%;
     color: white;
     font-size: 36px;
