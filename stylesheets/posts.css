@@ -12,3 +12,9 @@
   img.post-image {
     max-width: 900px;
   }
+  a.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
