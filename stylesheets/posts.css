@@ -5,7 +5,6 @@
     padding: 10px;
   }
   div.post {
-    background-color: #DCE1E9;
     padding: 10px;
   }
   div.post-image {
@@ -13,6 +12,7 @@
     text-align: center;
   }
   img.post-image {
+    border: 2px solid #555;
     max-width: 900px;
   }
   div.post-image a.project-title {
