@@ -12,11 +12,10 @@
   img.post-image {
     max-width: 900px;
   }
-  div.post-wrapper a.project-title {
+  div.post a.project-title {
     position: relative;
-    text-align: left;
+    text-align: center;
     top: -100px;
-    left: 3%;
     color: white;
     font-size: 36px;
     background-color: rgba(0, 0, 0, 0.2);
