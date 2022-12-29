@@ -19,8 +19,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #F9F7F5;
+    color: grey;
     font-size: 36px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.6);
     padding: 30px;
   }
