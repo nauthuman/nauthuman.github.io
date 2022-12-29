@@ -1,3 +1,32 @@
+<style>
+  div.post-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div.post {
+    padding: 0px 0px 10px 0px;
+  }
+  div.post-image {
+    position: relative;
+    text-align: center;
+  }
+  img.post-image {
+    border: 1px solid #555;
+    max-width: 900px;
+  }
+  div.post-image a.project-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: grey;
+    font-size: 36px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+  }
+</style>
+
 <div class="posts">
 {% include love_unplugged.html %}
 {% include creak.html %}
