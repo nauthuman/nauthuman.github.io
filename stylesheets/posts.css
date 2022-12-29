@@ -1,4 +1,5 @@
-  div.post-wrapper {
+<!--
+div.post-wrapper {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -24,3 +25,4 @@
     background-color: rgba(0, 0, 0, 0.6);
     padding: 30px;
   }
+-->
