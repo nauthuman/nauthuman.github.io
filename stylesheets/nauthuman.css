@@ -48,8 +48,8 @@
       div.footer {
         background-color: #F9F7F5;
         border-style: solid;
-        border-width: 1px 0px 0px 0px;
-        border-color: black;
+        border-width: 2px 0px 0px 0px;
+        border-color: gray;
       }
       div.footer p {
         background-color: #F9F7F5;
