@@ -1,12 +1,42 @@
-<div class="post-wrapper">
-  <div id="know-them" class="post">
-											
-    <div class="post-image">
-      <img class="post-image" src="{{site.url}}/images/know_them.jpg" alt=""/>
-      <br> 
-      <a href="https://www.youtube.com/watch?v=zTcZxiGrphk" class="project-title" target="_blank">You Do Not Know Them</a>
-    </div>
-  
-  </div>
+<style>
+  div.post-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  div.post {
+    padding: 0px 0px 10px 0px;
+  }
+  div.post-image {
+    position: relative;
+    text-align: center;
+  }
+  img.post-image {
+    border: 1px solid #555;
+    max-width: 900px;
+  }
+  div.post-image a.project-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: grey;
+    font-size: 36px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+  }
+</style>
 
+<div class="posts">
+  <div class="post-wrapper">
+    <div id="know-them" class="post">
+											
+      <div class="post-image">
+        <img class="post-image" src="{{site.url}}/images/know_them.jpg" alt=""/>
+        <br> 
+        <a href="https://www.youtube.com/watch?v=zTcZxiGrphk" class="project-title" target="_blank">You Do Not Know Them</a>
+      </div>
+  
+    </div>
+  </div>
 </div>
