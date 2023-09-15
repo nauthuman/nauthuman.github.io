@@ -37,7 +37,7 @@
         text-align: left;
       }
       div.footer {
-        background-color: #F9F7F5;
+        background-color: #F0F0F0;
         border-style: solid;
         border-width: 1px 0px 0px 0px;
         border-color: gray;
@@ -48,10 +48,10 @@
         max-width: 800px;
       }
       div.footer p {
-        background-color: #F9F7F5;
+        background-color: #F0F0F0;
         margin-top: 0.5em;
         margin-bottom: 0.5em;
         font-size: 18px;
         text-align: left;
-        color: black;
+        color: #101010;
       }
