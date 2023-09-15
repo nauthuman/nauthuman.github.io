@@ -9,6 +9,7 @@
         font-size: 18px;
         color: #F0F0F0;
 /*        background-color: #474747;  */
+          /* https://coolors.co/gradient-maker/474747-666666 */
 background: hsla(0, 0%, 28%, 1);
 
 background: linear-gradient(90deg, hsla(0, 0%, 28%, 1) 0%, hsla(0, 0%, 40%, 1) 100%);
