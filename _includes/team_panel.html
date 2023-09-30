@@ -43,20 +43,17 @@
 
   div.feature-image {
     padding: 35px;
-    width: 150px;
   }
   @media only screen and (max-width: 768px) {
     div.feature-image {
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 200px;
     }
   }
   @media only screen and (min-width: 769px) {
     div.feature-image {
       float: right;
-      width: 150px;
     }
   }
   
@@ -90,8 +87,17 @@
   div.feature-image img {
     padding: 3px 0px 0px 0px;
     /* box-shadow: 4px 4px 2px lightgrey; */
-    float: right;
   }	
+  @media only screen and (max-width: 768px) {
+    div.feature-image img {
+    width:250px;
+    }
+  }
+  @media only screen and (min-width: 769px) {
+    div.feature-image img {
+    width:150px;
+    }
+  }
 </style>
 
 <div id="team_panel" class="team-panel-wrapper">
