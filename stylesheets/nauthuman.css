@@ -8,9 +8,11 @@
         font-family: 'Titillium Web', sans-serif;
         font-size: 18px;
         color: #F0F0F0;
-/*        background-color: #474747;  */
+        background-color: #474747;
           /* https://coolors.co/gradient-maker/474747-666666 */
-background: hsla(0, 0%, 28%, 1);
+
+          /* 
+          background: hsla(0, 0%, 28%, 1);
 
 background: linear-gradient(90deg, hsla(0, 0%, 28%, 1) 0%, hsla(0, 0%, 40%, 1) 100%);
 
@@ -19,6 +21,7 @@ background: -moz-linear-gradient(90deg, hsla(0, 0%, 28%, 1) 0%, hsla(0, 0%, 40%,
 background: -webkit-linear-gradient(90deg, hsla(0, 0%, 28%, 1) 0%, hsla(0, 0%, 40%, 1) 100%);
 
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#474747", endColorstr="#666666", GradientType=1 );
+          */
       }
       div.content {
       }
